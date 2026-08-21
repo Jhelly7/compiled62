@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MAP:URI="https://cdn.jsdelivr.net/gh/Jhelly7/compiled62@job-0a95e8e9-8a13-4df6-8123-cdda99eba357/0a95e8e9-8a13-4df6-8123-cdda99eba357/hls/init.bin"
+#EXTINF:4.000000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled62@job-0a95e8e9-8a13-4df6-8123-cdda99eba357/0a95e8e9-8a13-4df6-8123-cdda99eba357/hls/seg00000.bin
+#EXTINF:4.160000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled62@job-0a95e8e9-8a13-4df6-8123-cdda99eba357/0a95e8e9-8a13-4df6-8123-cdda99eba357/hls/seg00001.bin
+#EXTINF:4.680000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled62@job-0a95e8e9-8a13-4df6-8123-cdda99eba357/0a95e8e9-8a13-4df6-8123-cdda99eba357/hls/seg00002.bin
+#EXTINF:2.160000,
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled62@job-0a95e8e9-8a13-4df6-8123-cdda99eba357/0a95e8e9-8a13-4df6-8123-cdda99eba357/hls/seg00003.bin
+#EXT-X-ENDLIST
