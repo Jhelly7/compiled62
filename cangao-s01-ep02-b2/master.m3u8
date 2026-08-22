@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:6
+
+#EXT-X-STREAM-INF:BANDWIDTH=2508009,RESOLUTION=1692x720
+https://cdn.jsdelivr.net/gh/Jhelly7/compiled62@job-cangao-s01-ep02-b2/cangao-s01-ep02-b2/hls/index.m3u8
